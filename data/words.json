@@ -1,0 +1,907 @@
+{
+  "project": "Daily English Word Generator",
+  "created_at": "2026-06-12T21:50:29+00:00",
+  "updated_at": "2026-06-12T21:50:29+00:00",
+  "words": [
+    {
+      "word": "solution",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "an answer to a problem",
+      "example": "We found a simple solution.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "impact",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "a strong effect or influence",
+      "example": "The teacher had a lasting impact.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "balance",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "a steady state where different parts are equal or controlled",
+      "example": "A healthy life needs balance.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "strategy",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "a plan for reaching a goal",
+      "example": "Their strategy was simple and clear.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "empathy",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "the ability to understand another person's feelings",
+      "example": "Empathy helps teams work better.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "summon",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to call or gather someone or something",
+      "example": "She tried to summon her courage.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "sustainable",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "able to continue without causing harm or running out",
+      "example": "The team chose a sustainable pace.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "clarify",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to make something easier to understand",
+      "example": "Please clarify the final deadline.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "flexible",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "able to change or bend easily",
+      "example": "A flexible schedule reduces stress.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "motive",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "a reason for doing something",
+      "example": "The detective searched for a motive.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "feasible",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "possible and practical to do",
+      "example": "The plan is feasible with a small team.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "declare",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to say something clearly or officially",
+      "example": "The judge will declare the winner.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "progress",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "movement toward improvement or a goal",
+      "example": "Small progress still counts.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "brisk",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "quick, active, or cool",
+      "example": "They took a brisk walk.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "peaceful",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "calm and free from trouble",
+      "example": "The park was peaceful in the morning.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "dynamic",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "active, changing, or full of energy",
+      "example": "The city has a dynamic culture.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "purpose",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "the reason something exists or is done",
+      "example": "The purpose of the app is learning.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "humble",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "not acting more important than others",
+      "example": "The champion remained humble.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "tribute",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "something said or done to show respect",
+      "example": "The song was a tribute to her teacher.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "generous",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "willing to give more than expected",
+      "example": "He made a generous donation.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "diverse",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "including many different kinds of people or things",
+      "example": "The city has a diverse food scene.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "rationale",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "the reason behind a decision or belief",
+      "example": "Explain the rationale for the change.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "bold",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "confident and willing to take risks",
+      "example": "She made a bold decision.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "capable",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "having the skill or ability to do something",
+      "example": "You are capable of learning quickly.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "method",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "a planned way of doing something",
+      "example": "This method saves time.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "justice",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "fair treatment under rules or law",
+      "example": "The group worked for justice.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "mentor",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "an experienced person who guides someone",
+      "example": "A mentor can speed up learning.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "reveal",
+      "part_of_speech": "verb",
+      "difficulty": "beginner",
+      "definition": "to show something that was hidden",
+      "example": "The test will reveal the issue.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "refine",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to improve by making small changes",
+      "example": "We refine the quiz after feedback.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "nurture",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to care for and help something grow",
+      "example": "Teachers nurture confidence.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "venture",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "a risky or exciting new activity",
+      "example": "The app became their first venture.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "versatile",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "able to be used in many different ways",
+      "example": "Python is a versatile language.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "coherent",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "clear, logical, and easy to follow",
+      "example": "Her report was coherent and persuasive.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "remedy",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "a solution or treatment for a problem",
+      "example": "Rest is a simple remedy for tiredness.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "pattern",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "a repeated form, design, or behavior",
+      "example": "We noticed a pattern in the data.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "ideal",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "perfect or most suitable",
+      "example": "This room is ideal for studying.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "frequent",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "happening often",
+      "example": "Frequent breaks can improve focus.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "solace",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "comfort during sadness or difficulty",
+      "example": "Reading gave him solace.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "vibrant",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "full of life, color, or energy",
+      "example": "The market was vibrant at night.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "ancient",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "very old or from a long time ago",
+      "example": "The museum displayed ancient coins.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "wary",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "careful because something may be risky",
+      "example": "Be wary of unknown links.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "reliable",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "able to be trusted",
+      "example": "The script gives reliable results.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "curious",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "wanting to learn or know more",
+      "example": "Curious people ask better questions.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "notable",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "important or worth noticing",
+      "example": "The app had notable improvements.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "efficient",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "working well without wasting time or energy",
+      "example": "The new process is more efficient.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "skeptical",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "not easily convinced",
+      "example": "She remained skeptical of the claim.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "insight",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "a clear understanding of something",
+      "example": "The interview gave us useful insight.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "benefit",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "a helpful or useful result",
+      "example": "Daily practice has a clear benefit.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "hypothesis",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "an idea tested through study or experiment",
+      "example": "The scientist formed a hypothesis.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "resilient",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "able to recover after difficulty",
+      "example": "Resilient people keep going.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "assert",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to state something confidently",
+      "example": "The author asserts a clear opinion.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "apparent",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "easy to see or understand",
+      "example": "The reason for the delay soon became apparent.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "linger",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to stay longer than expected",
+      "example": "The smell of coffee lingered.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "joyful",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "very happy",
+      "example": "The room felt joyful after the news.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "patient",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "able to wait calmly",
+      "example": "A patient teacher helps beginners.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "weave",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to form something by crossing parts together",
+      "example": "The story weaves humor with history.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "flourish",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to grow or succeed strongly",
+      "example": "Small businesses can flourish online.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "emerge",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to appear or become known",
+      "example": "A new pattern began to emerge.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "worthy",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "deserving respect, effort, or attention",
+      "example": "It is a worthy goal.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "steady",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "controlled, regular, and not shaking",
+      "example": "Steady practice builds confidence.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "profound",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "deep, strong, or very meaningful",
+      "example": "The book had a profound effect.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "scarcity",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "a lack of enough of something",
+      "example": "Scarcity can increase demand.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "robust",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "strong and able to handle problems",
+      "example": "The test suite makes the app robust.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "shortage",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "a lack of something needed",
+      "example": "The area faced a water shortage.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "meticulous",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "very careful about small details",
+      "example": "The editor was meticulous.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "illustrate",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to explain or show something with examples",
+      "example": "The chart illustrates the trend.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "hesitate",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to pause before doing or saying something",
+      "example": "Do not hesitate to ask questions.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "friction",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "difficulty or resistance between things",
+      "example": "Good design reduces friction.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "diligent",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "careful and hardworking",
+      "example": "A diligent student reviews mistakes.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "radiant",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "bright, warm, or full of happiness",
+      "example": "She had a radiant smile.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "harmony",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "a peaceful or pleasing agreement",
+      "example": "The colors worked in harmony.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "restore",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to bring something back to a good state",
+      "example": "Sleep can restore your energy.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "improve",
+      "part_of_speech": "verb",
+      "difficulty": "beginner",
+      "definition": "to become better or make something better",
+      "example": "Daily reading can improve vocabulary.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "deliberate",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "done carefully and intentionally",
+      "example": "The change was deliberate, not accidental.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "lavish",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "very rich, large, or generous",
+      "example": "The hotel served a lavish breakfast.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "audacious",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "brave, surprising, and willing to take risks",
+      "example": "The startup made an audacious promise.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "virtue",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "a good moral quality",
+      "example": "Patience is a virtue.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "candid",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "honest and direct",
+      "example": "She gave candid feedback.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "orient",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to help someone understand their position or situation",
+      "example": "The map helps visitors orient themselves.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "momentum",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "the force that keeps progress moving",
+      "example": "The project gained momentum.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "tolerant",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "willing to accept differences",
+      "example": "A tolerant community welcomes debate.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "tranquil",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "quiet and peaceful",
+      "example": "The lake was tranquil at sunrise.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "unify",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to bring parts together into one",
+      "example": "A shared goal can unify a team.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "reflect",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to think carefully or show an image",
+      "example": "Reflect on what you learned today.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "immerse",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to involve yourself deeply in something",
+      "example": "Immerse yourself in English media.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "sincere",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "honest and truly meant",
+      "example": "He gave a sincere apology.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "verify",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to check that something is true or correct",
+      "example": "Always verify important information.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "austere",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "plain, strict, or without decoration",
+      "example": "The room had an austere style.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "foster",
+      "part_of_speech": "verb",
+      "difficulty": "advanced",
+      "definition": "to encourage growth or development",
+      "example": "The club fosters creativity.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "catalyst",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "something that causes change or action",
+      "example": "The failure became a catalyst for growth.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "observe",
+      "part_of_speech": "verb",
+      "difficulty": "beginner",
+      "definition": "to watch or notice carefully",
+      "example": "Observe how people use the feature.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "credible",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "believable and trustworthy",
+      "example": "Use credible sources.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "fluent",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "able to speak or write smoothly",
+      "example": "She became fluent through practice.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "terrain",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "an area of land and its physical features",
+      "example": "The hikers crossed rocky terrain.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "labor",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "hard physical or mental work",
+      "example": "The project required months of labor.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "rare",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "not happening or found often",
+      "example": "It was a rare opportunity.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "keen",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "very interested or eager",
+      "example": "She is keen to learn Python.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "logical",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "reasonable and based on clear thinking",
+      "example": "The plan followed a logical order.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "quality",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "how good or useful something is",
+      "example": "Quality matters more than speed.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    },
+    {
+      "word": "priority",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "something more important than other things",
+      "example": "Health should be a priority.",
+      "date_added": "2026-06-12",
+      "source": "initial"
+    }
+  ]
+}
