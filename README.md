@@ -16,7 +16,7 @@ A small Python project that starts with 100 random English words, adds one new w
 - Adds one unused word per day.
 - Stores each word with a meaning, example sentence, part of speech, difficulty, date, and source.
 - Includes a multiple-choice quiz mode.
-- Uses GitHub Actions to update the repository every day at 8 PM London time.
+- Includes a GitHub Actions workflow template to update the repository every day at 8 PM London time.
 - Runs with the Python standard library only.
 
 ## Quick Start
@@ -61,9 +61,11 @@ The script will not add two daily words for the same local date.
 
 ## Automation
 
-The workflow in `.github/workflows/daily-word.yml` runs every day around 8 PM London time. GitHub schedules use UTC, so the workflow runs at both possible UTC times and the Python script only updates the word list when the local London hour is actually 20:00.
+The workflow template in `docs/daily-word.workflow.yml` runs every day around 8 PM London time. GitHub schedules use UTC, so the workflow runs at both possible UTC times and the Python script only updates the word list when the local London hour is actually 20:00.
 
 Manual workflow runs are also supported from the GitHub Actions tab.
+
+To activate the workflow, copy the template to `.github/workflows/daily-word.yml`. If GitHub rejects the push because your token is missing `workflow` scope, see `docs/enable-github-actions.md`.
 
 ## Run Tests
 
@@ -75,8 +77,9 @@ python -m unittest discover -s tests
 
 ```text
 .
-├── .github/workflows/daily-word.yml
 ├── data/words.json
+├── docs/daily-word.workflow.yml
+├── docs/enable-github-actions.md
 ├── src/word_generator.py
 ├── tests/test_word_generator.py
 └── README.md
