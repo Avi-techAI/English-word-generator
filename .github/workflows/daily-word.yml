@@ -1,0 +1,47 @@
+name: Daily English word
+
+on:
+  schedule:
+    # GitHub cron is UTC. These two runs cover 8 PM London in GMT and BST.
+    - cron: "0 19 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  add-word:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests
+
+      - name: Add daily word
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python src/word_generator.py add --readme --require-local-hour 20
+          else
+            python src/word_generator.py add --readme
+          fi
+
+      - name: Commit updated word list
+        run: |
+          if git diff --quiet; then
+            echo "No word changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/words.json README.md
+            git commit -m "Add daily English word"
+            git push
+          fi
