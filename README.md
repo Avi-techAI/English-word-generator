@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **100**
-- Latest word: **priority** (noun, intermediate)
-- Meaning: something more important than other things
-- Example: Health should be a priority.
-- Last added: 2026-06-12
+- Total words: **101**
+- Latest word: **implication** (noun, advanced)
+- Meaning: a possible result or meaning of something
+- Example: The change has a serious implication.
+- Last added: 2026-06-13
 <!-- WORD_STATS_END -->
 
 ## Features

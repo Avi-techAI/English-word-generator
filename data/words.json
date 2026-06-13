@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-06-12T21:50:29+00:00",
+  "updated_at": "2026-06-13T14:50:12+00:00",
   "words": [
     {
       "word": "solution",
@@ -902,6 +902,15 @@
       "example": "Health should be a priority.",
       "date_added": "2026-06-12",
       "source": "initial"
+    },
+    {
+      "word": "implication",
+      "part_of_speech": "noun",
+      "difficulty": "advanced",
+      "definition": "a possible result or meaning of something",
+      "example": "The change has a serious implication.",
+      "date_added": "2026-06-13",
+      "source": "daily"
     }
   ]
 }
