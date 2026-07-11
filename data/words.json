@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-06-13T14:50:12+00:00",
+  "updated_at": "2026-07-11T19:59:12+00:00",
   "words": [
     {
       "word": "solution",
@@ -910,6 +910,15 @@
       "definition": "a possible result or meaning of something",
       "example": "The change has a serious implication.",
       "date_added": "2026-06-13",
+      "source": "daily"
+    },
+    {
+      "word": "natural",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "existing in nature or happening easily",
+      "example": "The speech sounded natural.",
+      "date_added": "2026-07-11",
       "source": "daily"
     }
   ]

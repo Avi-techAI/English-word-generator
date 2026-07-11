@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **101**
-- Latest word: **implication** (noun, advanced)
-- Meaning: a possible result or meaning of something
-- Example: The change has a serious implication.
-- Last added: 2026-06-13
+- Total words: **102**
+- Latest word: **natural** (adjective, beginner)
+- Meaning: existing in nature or happening easily
+- Example: The speech sounded natural.
+- Last added: 2026-07-11
 <!-- WORD_STATS_END -->
 
 ## Features
