@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-07-11T19:59:12+00:00",
+  "updated_at": "2026-07-16T19:56:38+00:00",
   "words": [
     {
       "word": "solution",
@@ -919,6 +919,15 @@
       "definition": "existing in nature or happening easily",
       "example": "The speech sounded natural.",
       "date_added": "2026-07-11",
+      "source": "daily"
+    },
+    {
+      "word": "glimpse",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "a quick look",
+      "example": "We caught a glimpse of the sea.",
+      "date_added": "2026-07-16",
       "source": "daily"
     }
   ]
