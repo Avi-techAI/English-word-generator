@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **103**
-- Latest word: **glimpse** (noun, intermediate)
-- Meaning: a quick look
-- Example: We caught a glimpse of the sea.
-- Last added: 2026-07-16
+- Total words: **104**
+- Latest word: **knowledge** (noun, beginner)
+- Meaning: information and understanding gained by learning
+- Example: Books help build knowledge.
+- Last added: 2026-07-17
 <!-- WORD_STATS_END -->
 
 ## Features
