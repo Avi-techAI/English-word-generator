@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **104**
-- Latest word: **knowledge** (noun, beginner)
-- Meaning: information and understanding gained by learning
-- Example: Books help build knowledge.
-- Last added: 2026-07-17
+- Total words: **105**
+- Latest word: **skillful** (adjective, intermediate)
+- Meaning: showing ability and practice
+- Example: The chef made a skillful cut.
+- Last added: 2026-07-18
 <!-- WORD_STATS_END -->
 
 ## Features
