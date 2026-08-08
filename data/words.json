@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-07T19:43:56+00:00",
+  "updated_at": "2026-08-08T19:21:20+00:00",
   "words": [
     {
       "word": "solution",
@@ -955,6 +955,15 @@
       "definition": "useful or worth a lot",
       "example": "Feedback is valuable for improvement.",
       "date_added": "2026-08-07",
+      "source": "daily"
+    },
+    {
+      "word": "mature",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "fully developed or sensible",
+      "example": "Her mature response impressed them.",
+      "date_added": "2026-08-08",
       "source": "daily"
     }
   ]

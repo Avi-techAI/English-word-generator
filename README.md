@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **106**
-- Latest word: **valuable** (adjective, beginner)
-- Meaning: useful or worth a lot
-- Example: Feedback is valuable for improvement.
-- Last added: 2026-08-07
+- Total words: **107**
+- Latest word: **mature** (adjective, intermediate)
+- Meaning: fully developed or sensible
+- Example: Her mature response impressed them.
+- Last added: 2026-08-08
 <!-- WORD_STATS_END -->
 
 ## Features
