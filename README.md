@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **108**
-- Latest word: **uphold** (verb, advanced)
-- Meaning: to support or defend a rule or value
-- Example: Judges uphold the law.
-- Last added: 2026-08-09
+- Total words: **109**
+- Latest word: **modest** (adjective, intermediate)
+- Meaning: not too large, proud, or showy
+- Example: They started with a modest budget.
+- Last added: 2026-08-10
 <!-- WORD_STATS_END -->
 
 ## Features

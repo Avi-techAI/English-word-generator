@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-09T19:24:45+00:00",
+  "updated_at": "2026-08-10T19:47:35+00:00",
   "words": [
     {
       "word": "solution",
@@ -973,6 +973,15 @@
       "definition": "to support or defend a rule or value",
       "example": "Judges uphold the law.",
       "date_added": "2026-08-09",
+      "source": "daily"
+    },
+    {
+      "word": "modest",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "not too large, proud, or showy",
+      "example": "They started with a modest budget.",
+      "date_added": "2026-08-10",
       "source": "daily"
     }
   ]
