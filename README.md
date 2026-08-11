@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **109**
-- Latest word: **modest** (adjective, intermediate)
-- Meaning: not too large, proud, or showy
-- Example: They started with a modest budget.
-- Last added: 2026-08-10
+- Total words: **110**
+- Latest word: **admire** (verb, beginner)
+- Meaning: to respect or like someone or something
+- Example: I admire her calm way of speaking.
+- Last added: 2026-08-11
 <!-- WORD_STATS_END -->
 
 ## Features
