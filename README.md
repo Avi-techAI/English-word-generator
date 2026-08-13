@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **111**
-- Latest word: **mindful** (adjective, intermediate)
-- Meaning: aware and careful about something
-- Example: Be mindful of your tone.
-- Last added: 2026-08-12
+- Total words: **112**
+- Latest word: **articulate** (verb, advanced)
+- Meaning: to express an idea clearly
+- Example: She can articulate complex ideas.
+- Last added: 2026-08-13
 <!-- WORD_STATS_END -->
 
 ## Features
