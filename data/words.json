@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-13T19:51:14+00:00",
+  "updated_at": "2026-08-14T19:41:50+00:00",
   "words": [
     {
       "word": "solution",
@@ -1009,6 +1009,15 @@
       "definition": "to express an idea clearly",
       "example": "She can articulate complex ideas.",
       "date_added": "2026-08-13",
+      "source": "daily"
+    },
+    {
+      "word": "precise",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "exact and accurate",
+      "example": "Use precise words in instructions.",
+      "date_added": "2026-08-14",
       "source": "daily"
     }
   ]

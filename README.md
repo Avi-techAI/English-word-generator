@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **112**
-- Latest word: **articulate** (verb, advanced)
-- Meaning: to express an idea clearly
-- Example: She can articulate complex ideas.
-- Last added: 2026-08-13
+- Total words: **113**
+- Latest word: **precise** (adjective, intermediate)
+- Meaning: exact and accurate
+- Example: Use precise words in instructions.
+- Last added: 2026-08-14
 <!-- WORD_STATS_END -->
 
 ## Features
