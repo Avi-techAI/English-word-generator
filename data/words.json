@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-14T19:41:50+00:00",
+  "updated_at": "2026-08-15T19:14:14+00:00",
   "words": [
     {
       "word": "solution",
@@ -1018,6 +1018,15 @@
       "definition": "exact and accurate",
       "example": "Use precise words in instructions.",
       "date_added": "2026-08-14",
+      "source": "daily"
+    },
+    {
+      "word": "ambiguous",
+      "part_of_speech": "adjective",
+      "difficulty": "advanced",
+      "definition": "having more than one possible meaning",
+      "example": "The instruction was ambiguous.",
+      "date_added": "2026-08-15",
       "source": "daily"
     }
   ]
