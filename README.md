@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **114**
-- Latest word: **ambiguous** (adjective, advanced)
-- Meaning: having more than one possible meaning
-- Example: The instruction was ambiguous.
-- Last added: 2026-08-15
+- Total words: **115**
+- Latest word: **wisdom** (noun, intermediate)
+- Meaning: good judgment gained from experience
+- Example: Wisdom often comes with patience.
+- Last added: 2026-08-16
 <!-- WORD_STATS_END -->
 
 ## Features

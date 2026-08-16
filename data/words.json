@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-15T19:14:14+00:00",
+  "updated_at": "2026-08-16T19:13:19+00:00",
   "words": [
     {
       "word": "solution",
@@ -1027,6 +1027,15 @@
       "definition": "having more than one possible meaning",
       "example": "The instruction was ambiguous.",
       "date_added": "2026-08-15",
+      "source": "daily"
+    },
+    {
+      "word": "wisdom",
+      "part_of_speech": "noun",
+      "difficulty": "intermediate",
+      "definition": "good judgment gained from experience",
+      "example": "Wisdom often comes with patience.",
+      "date_added": "2026-08-16",
       "source": "daily"
     }
   ]
