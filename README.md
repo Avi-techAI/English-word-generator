@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **115**
-- Latest word: **wisdom** (noun, intermediate)
-- Meaning: good judgment gained from experience
-- Example: Wisdom often comes with patience.
-- Last added: 2026-08-16
+- Total words: **116**
+- Latest word: **agile** (adjective, intermediate)
+- Meaning: able to move or think quickly
+- Example: The team stayed agile during the launch.
+- Last added: 2026-08-17
 <!-- WORD_STATS_END -->
 
 ## Features
