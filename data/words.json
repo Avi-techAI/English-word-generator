@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-17T19:20:39+00:00",
+  "updated_at": "2026-08-18T19:20:48+00:00",
   "words": [
     {
       "word": "solution",
@@ -1045,6 +1045,15 @@
       "definition": "able to move or think quickly",
       "example": "The team stayed agile during the launch.",
       "date_added": "2026-08-17",
+      "source": "daily"
+    },
+    {
+      "word": "comfort",
+      "part_of_speech": "noun",
+      "difficulty": "beginner",
+      "definition": "a feeling of ease, safety, or relief",
+      "example": "Music gave him comfort after a long day.",
+      "date_added": "2026-08-18",
       "source": "daily"
     }
   ]

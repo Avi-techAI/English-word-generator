@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **116**
-- Latest word: **agile** (adjective, intermediate)
-- Meaning: able to move or think quickly
-- Example: The team stayed agile during the launch.
-- Last added: 2026-08-17
+- Total words: **117**
+- Latest word: **comfort** (noun, beginner)
+- Meaning: a feeling of ease, safety, or relief
+- Example: Music gave him comfort after a long day.
+- Last added: 2026-08-18
 <!-- WORD_STATS_END -->
 
 ## Features
