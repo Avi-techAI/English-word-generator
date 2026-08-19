@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **117**
-- Latest word: **comfort** (noun, beginner)
-- Meaning: a feeling of ease, safety, or relief
-- Example: Music gave him comfort after a long day.
-- Last added: 2026-08-18
+- Total words: **118**
+- Latest word: **brief** (adjective, beginner)
+- Meaning: short in time or length
+- Example: We had a brief meeting after lunch.
+- Last added: 2026-08-19
 <!-- WORD_STATS_END -->
 
 ## Features

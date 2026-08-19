@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-18T19:20:48+00:00",
+  "updated_at": "2026-08-19T19:18:00+00:00",
   "words": [
     {
       "word": "solution",
@@ -1054,6 +1054,15 @@
       "definition": "a feeling of ease, safety, or relief",
       "example": "Music gave him comfort after a long day.",
       "date_added": "2026-08-18",
+      "source": "daily"
+    },
+    {
+      "word": "brief",
+      "part_of_speech": "adjective",
+      "difficulty": "beginner",
+      "definition": "short in time or length",
+      "example": "We had a brief meeting after lunch.",
+      "date_added": "2026-08-19",
       "source": "daily"
     }
   ]
