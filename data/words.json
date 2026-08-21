@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-20T19:23:13+00:00",
+  "updated_at": "2026-08-21T19:19:05+00:00",
   "words": [
     {
       "word": "solution",
@@ -1072,6 +1072,15 @@
       "definition": "clear, powerful, and graceful in speech or writing",
       "example": "Her eloquent speech moved the audience.",
       "date_added": "2026-08-20",
+      "source": "daily"
+    },
+    {
+      "word": "empower",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to give someone confidence, authority, or ability",
+      "example": "Good tools empower users.",
+      "date_added": "2026-08-21",
       "source": "daily"
     }
   ]

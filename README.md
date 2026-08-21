@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **119**
-- Latest word: **eloquent** (adjective, advanced)
-- Meaning: clear, powerful, and graceful in speech or writing
-- Example: Her eloquent speech moved the audience.
-- Last added: 2026-08-20
+- Total words: **120**
+- Latest word: **empower** (verb, intermediate)
+- Meaning: to give someone confidence, authority, or ability
+- Example: Good tools empower users.
+- Last added: 2026-08-21
 <!-- WORD_STATS_END -->
 
 ## Features
