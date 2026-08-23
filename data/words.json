@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-22T19:15:29+00:00",
+  "updated_at": "2026-08-23T19:15:22+00:00",
   "words": [
     {
       "word": "solution",
@@ -1090,6 +1090,15 @@
       "definition": "to give attention to one thing",
       "example": "Focus on one task at a time.",
       "date_added": "2026-08-22",
+      "source": "daily"
+    },
+    {
+      "word": "graceful",
+      "part_of_speech": "adjective",
+      "difficulty": "intermediate",
+      "definition": "smooth, attractive, or polite",
+      "example": "She gave a graceful answer.",
+      "date_added": "2026-08-23",
       "source": "daily"
     }
   ]

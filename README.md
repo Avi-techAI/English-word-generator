@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **121**
-- Latest word: **focus** (verb, beginner)
-- Meaning: to give attention to one thing
-- Example: Focus on one task at a time.
-- Last added: 2026-08-22
+- Total words: **122**
+- Latest word: **graceful** (adjective, intermediate)
+- Meaning: smooth, attractive, or polite
+- Example: She gave a graceful answer.
+- Last added: 2026-08-23
 <!-- WORD_STATS_END -->
 
 ## Features
