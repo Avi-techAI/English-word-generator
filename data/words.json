@@ -1,7 +1,7 @@
 {
   "project": "Daily English Word Generator",
   "created_at": "2026-06-12T21:50:29+00:00",
-  "updated_at": "2026-08-23T19:15:22+00:00",
+  "updated_at": "2026-08-24T19:21:22+00:00",
   "words": [
     {
       "word": "solution",
@@ -1099,6 +1099,15 @@
       "definition": "smooth, attractive, or polite",
       "example": "She gave a graceful answer.",
       "date_added": "2026-08-23",
+      "source": "daily"
+    },
+    {
+      "word": "persist",
+      "part_of_speech": "verb",
+      "difficulty": "intermediate",
+      "definition": "to continue despite difficulty",
+      "example": "If you persist, your skill will grow.",
+      "date_added": "2026-08-24",
       "source": "daily"
     }
   ]

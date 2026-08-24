@@ -3,11 +3,11 @@
 A small Python project that starts with 100 random English words, adds one new word each day, and includes an interactive quiz mode for practice.
 
 <!-- WORD_STATS_START -->
-- Total words: **122**
-- Latest word: **graceful** (adjective, intermediate)
-- Meaning: smooth, attractive, or polite
-- Example: She gave a graceful answer.
-- Last added: 2026-08-23
+- Total words: **123**
+- Latest word: **persist** (verb, intermediate)
+- Meaning: to continue despite difficulty
+- Example: If you persist, your skill will grow.
+- Last added: 2026-08-24
 <!-- WORD_STATS_END -->
 
 ## Features
